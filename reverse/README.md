@@ -15,7 +15,7 @@ La sécurité est un aspect essentiel à tout programme accessible au public. Un
 
 ## Remise
 
-Vous devez remettre le flag trouvé et un script bash démontrant votre exploit.
+Vous pouvez devez remettre le flag.
 
 ## Instructions
 
