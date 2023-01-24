@@ -14,6 +14,6 @@
 * [DevOps](./devops)
 * [Application Mobile](./mobile)
 * [Système d'Exploitation](./operating-system)
-* [Reverse Engineering](./reverse)
+* [Rétro Ingénierie](./reverse)
 * [Informatique Théorique](./theoretical)
 * [Application Web](./web)
